@@ -114,7 +114,9 @@ Prediction outputs from classification tasks:
   *The UN Security Council debates 1995–2023.* 2025. [arXiv](https://arxiv.org/abs/1906.10969)
 
 ---
-This research was conducted under the supervision of **Prof. Dr. Manfred Stede** (University of Potsdam) and **MA.Karolina Zaczynska** (University of Potsdam), whose guidance and expertise were instrumental throughout the development of the thesis.
+
+## Supervision
+This thesis was conducted under the supervision of **Prof. Dr. Manfred Stede** (University of Potsdam) and **MA. Karolina Zaczynska** (University of Potsdam), whose guidance and expertise were instrumental throughout the development of the thesis.
 
 
 For any questions, please contact **Valentina Tretti-Beckles**.
