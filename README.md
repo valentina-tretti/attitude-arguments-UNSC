@@ -103,7 +103,7 @@ Prediction outputs from classification tasks:
 
 - **Zaczynska, Karolina**, **Bourgonje, Peter**, and **Stede, Manfred**.  
   *How Diplomats Dispute: The UN Security Council Conflict Corpus.*  
-  In *LREC-COLING 2024*, Torino, Italy.
+  In *LREC-COLING 2024*, Torino, Italy. [ACL Anthology](https://aclanthology.org/2024.lrec-main.716/)
 
 - **Schönfeld, Mirco**, **Eckhard, Steffen**, **Patz, Ronny**, and **van Meegdenburg, Hilde**.  
   *The UN Security Council debates (Version 5)*. 2019. [Harvard Dataverse](https://doi.org/10.7910/DVN/8RIGNS)
