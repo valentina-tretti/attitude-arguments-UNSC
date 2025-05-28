@@ -35,11 +35,10 @@ Scripts for annotation extraction and classification experiments.
 ##### Task 1 – Argumentative Sentence Detection
 - `Task 1 - Argumentative Sentence Detection.ipynb`: Fine-tunes RoBERTa on the USElecDeb60To16 v.01 dataset (Haddadan et al., 2019) and evaluates the model.
 - `Task 1 - Argumentative Sentence Detection on Debate 7138.ipynb`: Applies the model to debate SPV.7138.
-- `fine_tuned_roberta.zip`: Contains the fine-tuned model.
+
 
 ##### Task 2 – Argumentative Components Identification
 - `Task 2 - Argumentative Components Identification.ipynb`: Fine-tunes RoBERTa for claim/premise classification and applies it to debate SPV.7138.
-- `fine_tuned_roberta_claim_premise.zip`: Fine-tuned model for this task.
 
 ##### Task 3 – Premise-Claim Relation Extraction and Validation
 
@@ -53,7 +52,6 @@ Scripts for annotation extraction and classification experiments.
 ##### Task 4 – Argumentation Scheme Classification
 - `Task4-Arg Schemes Classification.ipynb`: Fine-tunes RoBERTa using the UNSCUkrArg dataset.
 - `validation_set_debate7138.csv`: Manually annotated data.
-- `roberta_argumentation_schemes.zip`: Fine-tuned model.
 
 ---
 
